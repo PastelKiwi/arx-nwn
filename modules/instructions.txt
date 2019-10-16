@@ -1,0 +1,8 @@
+Make sure that each collaborator, or pull-request is issued with the following naming extensions. Otherwise, the pull request will not be accepted, nor pushed to the collection of module updates.
+
+Legal Naming Extensions:
+USER-MOD-DATE-YEAR.
+
+Example:
+
+2cwldys-ARXPLAZA-10-16-2019
